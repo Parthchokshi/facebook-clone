@@ -13,7 +13,7 @@
 1. `npm install`
 2. `npm start`
 
-# Screenshot of application
+# Screenshots of application
 
 # No Posts
 # ![No Posts](posts.png)
