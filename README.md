@@ -13,4 +13,4 @@
 1. `npm install`
 2. `npm start`
 
-![No posts](https://imgur.com/JVjG0WP)
+![Create Post](create-post.png)
