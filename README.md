@@ -13,4 +13,4 @@
 1. `npm install`
 2. `npm start`
 
-![Alt Image](https://imgur.com/JVjG0WP)
+![No posts](https://imgur.com/JVjG0WP)
