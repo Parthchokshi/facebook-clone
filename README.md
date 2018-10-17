@@ -21,5 +21,5 @@
 
 3. ![Feed](feed.png)
 
-4. ![Comments](comment.png)
+4. ![Comments](comments.png)
 
