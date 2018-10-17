@@ -22,7 +22,7 @@
 # ![Create Post](create-post.png)
 
 # Feed
-# ![Feed](feed.png)
+# ![Feed](feeds.png)
 
 # Comments
 # ![Comments](comments.png)
