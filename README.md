@@ -15,11 +15,15 @@
 
 # Screenshot of application
 
-1. ![No Posts](posts.png)
+# No Posts
+# ![No Posts](posts.png)
 
-2. ![Create Post](create-post.png)
+# Create Post
+# ![Create Post](create-post.png)
 
-3. ![Feed](feed.png)
+# Feed
+# ![Feed](feed.png)
 
-4. ![Comments](comments.png)
+# Comments
+# ![Comments](comments.png)
 
