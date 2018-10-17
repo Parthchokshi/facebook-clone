@@ -13,4 +13,13 @@
 1. `npm install`
 2. `npm start`
 
-![Create Post](create-post.png)
+# Screenshot of application
+
+1. ![No Posts](posts.png)
+
+2. ![Create Post](create-post.png)
+
+3. ![Feed](feed.png)
+
+4. ![Comments](comment.png)
+
