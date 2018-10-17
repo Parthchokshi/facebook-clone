@@ -13,4 +13,4 @@
 1. `npm install`
 2. `npm start`
 
-![alt Home screen](https://imgur.com/JVjG0WP)
+![Alt Image](https://imgur.com/JVjG0WP)
