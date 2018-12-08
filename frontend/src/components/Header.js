@@ -24,7 +24,7 @@ const Header = (props) => (
 		<AppBar position="static">
 			<Toolbar>
 				<Typography variant="title" color="inherit" className={props.classes.flex}>
-					Dev 6 Social Media
+					Just another Social Media
 				</Typography>
 				{/*<Button color="inherit">Sign Up</Button>*/}
 				{/*<Button color="inherit">Login</Button>*/}
