@@ -1,6 +1,6 @@
 # SETUP INFO
 
-# Backend
+## Backend
 
 1. Install MAMP - https://www.mamp.info/en/downloads/ and start Apache server
 2. Change database configs in `backend/src/util/db.js` - Username and Password
@@ -8,22 +8,22 @@
 3. `npm install`
 4. `npm start`
 
-# Frontend
+## Frontend
 
 1. `npm install`
 2. `npm start`
 
-# Screenshots of application
+## Screenshots of application
 
-# No Posts
+## No Posts
 # ![No Posts](posts.png)
 
-# Create Post
+## Create Post
 # ![Create Post](create-post.png)
 
-# Feed
+## Feed
 # ![Feed](feeds.png)
 
-# Comments
+## Comments
 # ![Comments](comments.png)
 
