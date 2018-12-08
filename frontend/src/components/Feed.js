@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Posts from './Posts';
 import axios from 'axios';
-import CreatePost from './Create_Post';
+import CreatePost from './CreatePost';
 import Typography from '@material-ui/core/Typography';
 import Error from '@material-ui/icons/Error';
 import indigo from '@material-ui/core/colors/indigo';
